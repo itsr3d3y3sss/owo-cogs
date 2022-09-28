@@ -1,5 +1,7 @@
 import jishaku
 from jishaku.cog import OPTIONAL_FEATURES, STANDARD_FEATURES
+from discord.ext import commands
+from discord_ui import UI, SlashOption
 
 from redbot.core import commands
 
