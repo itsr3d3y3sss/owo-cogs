@@ -6,6 +6,7 @@
     "author": ["Gorialis", "ow0x"],
     "requirements": ["git+https://github.com/ow0x/jishaku"],
     "tags": ["jishaku", "jsk"],
+    "min_bot_version": "3.4.0",
     "hidden": false,
     "disabled": false,
     "type": "COG"
